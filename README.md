@@ -22,6 +22,8 @@ Bấm cho phép tất cả các cookie
 
 ![image](https://user-images.githubusercontent.com/82578024/203500648-a873f545-f67b-4b6f-9126-bc772728aeb3.png)
 
+**Xem Video:**
+
 https://user-images.githubusercontent.com/82578024/203502482-fe6c4892-98e6-441b-9052-6b874c47ccd1.mp4
 
 ## Done! ##
