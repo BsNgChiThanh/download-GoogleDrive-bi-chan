@@ -26,4 +26,8 @@ Bấm cho phép tất cả các cookie
 
 https://user-images.githubusercontent.com/82578024/203502482-fe6c4892-98e6-441b-9052-6b874c47ccd1.mp4
 
+Trường hợp vẫn bị lỗi thì bấm tiếp tục, vậy là xong!
+
+https://user-images.githubusercontent.com/82578024/203675935-11a6a496-619b-4ab2-901b-5d23a8af0a6f.mp4
+
 ## Done! ##
